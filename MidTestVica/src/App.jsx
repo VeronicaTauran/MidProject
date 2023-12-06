@@ -101,10 +101,10 @@ function App() {
             <div className="col-lg-4 col-sm-6">
               <a
                 className="portfolio-box"
-                href="https://github.com/VeronicaTauran/MidProject/blob/main/midtest_vica/assets/ay1.JPG?raw=true"
+                href="https://github.com/VeronicaTauran/MidProject/blob/main/MidTestVica/src/assets/img/ay1.JPG?raw=true"
                 title="Project Name"
               >
-                <img className="img-fluid" src="https://github.com/VeronicaTauran/MidProject/blob/main/midtest_vica/assets/ay1.JPG?raw=true" alt="..." />
+                <img className="img-fluid" src="https://github.com/VeronicaTauran/MidProject/blob/main/MidTestVica/src/assets/img/ay1.JPG?raw=true" alt="..." />
                 <div className="portfolio-box-caption">
                   <div className="project-category text-white-50">
                     Adventist youth Unklab
@@ -118,10 +118,10 @@ function App() {
             <div className="col-lg-4 col-sm-6">
               <a
                 className="portfolio-box"
-                href="https://github.com/VeronicaTauran/MidProject/blob/main/midtest_vica/assets/ik1.jpg?raw=true"
+                href="https://github.com/VeronicaTauran/MidProject/blob/main/MidTestVica/src/assets/img/ik1.jpg?raw=true"
                 title="Project Name"
               >
-                <img className="img-fluid" src="https://github.com/VeronicaTauran/MidProject/blob/main/midtest_vica/assets/ik1.jpg?raw=true" alt="..." />
+                <img className="img-fluid" src="https://github.com/VeronicaTauran/MidProject/blob/main/MidTestVica/src/assets/img/ik1.jpg?raw=true" alt="..." />
                 <div className="portfolio-box-caption">
                   <div className="project-category text-white-50">IKMAMA</div>
                   <div className="project-name">IKATAN MAHASISWA MALUKU</div>
@@ -131,10 +131,10 @@ function App() {
             <div className="col-lg-4 col-sm-6">
               <a
                 className="portfolio-box"
-                href="https://github.com/VeronicaTauran/MidProject/blob/main/midtest_vica/assets/me1.jpg?raw=true"
+                href="https://github.com/VeronicaTauran/MidProject/blob/main/MidTestVica/src/assets/img/me1.jpg?raw=true"
                 title="Project Name"
               >
-                <img className="img-fluid" src="https://github.com/VeronicaTauran/MidProject/blob/main/midtest_vica/assets/me1.jpg?raw=true" alt="..." />
+                <img className="img-fluid" src="https://github.com/VeronicaTauran/MidProject/blob/main/MidTestVica/src/assets/img/me1.jpg?raw=true" alt="..." />
                 <div className="portfolio-box-caption">
                   <div className="project-category text-white-50">FAMILY</div>
                   <div className="project-name">
@@ -146,10 +146,10 @@ function App() {
             <div className="col-lg-4 col-sm-6">
               <a
                 className="portfolio-box"
-                href="https://github.com/VeronicaTauran/MidProject/blob/main/midtest_vica/assets/pth1.jpg?raw=true"
+                href="https://github.com/VeronicaTauran/MidProject/blob/main/MidTestVica/src/assets/img/pth1.jpg?raw=true"
                 title="Project Name"
               >
-                <img className="img-fluid" src="https://github.com/VeronicaTauran/MidProject/blob/main/midtest_vica/assets/pth1.jpg?raw=true" alt="..." />
+                <img className="img-fluid" src="https://github.com/VeronicaTauran/MidProject/blob/main/MidTestVica/src/assets/img/pth1.jpg?raw=true" alt="..." />
                 <div className="portfolio-box-caption">
                   <div className="project-category text-white-50">
                     PATHFINDER
@@ -161,10 +161,10 @@ function App() {
             <div className="col-lg-4 col-sm-6">
               <a
                 className="portfolio-box"
-                href="https://github.com/VeronicaTauran/MidProject/blob/main/midtest_vica/assets/uk2.jpg?raw=true"
+                href="https://github.com/VeronicaTauran/MidProject/blob/main/MidTestVica/src/assets/img/uk2.jpg?raw=true"
                 title="Project Name"
               >
-                <img className="img-fluid" src="https://github.com/VeronicaTauran/MidProject/blob/main/midtest_vica/assets/uk2.jpg?raw=true" alt="..." />
+                <img className="img-fluid" src="https://github.com/VeronicaTauran/MidProject/blob/main/MidTestVica/src/assets/img/uk2.jpg?raw=true" alt="..." />
                 <div className="portfolio-box-caption">
                   <div className="project-category text-white-50">CAMPUS</div>
                   <div className="project-name">
@@ -176,10 +176,10 @@ function App() {
             <div className="col-lg-4 col-sm-6">
               <a
                 className="portfolio-box"
-                href="https://github.com/VeronicaTauran/MidProject/blob/main/midtest_vica/assets/ik2.jpg?raw=true"
+                href="https://github.com/VeronicaTauran/MidProject/blob/main/MidTestVica/src/assets/img/ik2.jpg?raw=true"
                 title="Project Name"
               >
-                <img className="img-fluid" src="https://github.com/VeronicaTauran/MidProject/blob/main/midtest_vica/assets/ik2.jpg?raw=true" alt="..." />
+                <img className="img-fluid" src="https://github.com/VeronicaTauran/MidProject/blob/main/MidTestVica/src/assets/img/ik2.jpg?raw=true" alt="..." />
                 <div className="portfolio-box-caption p-3">
                   <div className="project-category text-white-50">IKMAPAP</div>
                   <div className="project-name">IKATAN MAHASISWA PAPUA</div>
